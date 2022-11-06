@@ -1,12 +1,12 @@
 # weather_app_with_flutter
 
-A new Flutter project.
+This project is a part of my university academic assignment.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is the starte versino of this app. I have some plan to enrich this app with more functionality.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to learn flutter.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
