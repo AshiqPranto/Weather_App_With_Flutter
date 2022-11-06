@@ -4,7 +4,7 @@ This project is a part of my university academic assignment.
 
 ## Getting Started
 
-This is the starte versino of this app. I have some plan to enrich this app with more functionality.
+This is the starter version of this app. I have some plan to enrich this app with more functionality.
 
 A few resources to learn flutter.
 
